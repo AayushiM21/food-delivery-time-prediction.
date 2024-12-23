@@ -8,13 +8,21 @@ Dataset
 The dataset includes the following columns:
 
 ID: Unique identifier for each delivery.
+
 Delivery_person_ID: ID of the delivery personnel.
+
 Delivery_person_Age: Age of the delivery person.
+
 Delivery_person_Ratings: Ratings given to the delivery person by customers.
+
 Restaurant_latitude and longitude: Coordinates of the restaurant.
+
 Delivery_location_latitude and longitude: Coordinates of the delivery destination.
+
 Type_of_order: Categories of food ordered (e.g., Veg, Non-Veg, Beverages).
+
 Type_of_vehicle: Mode of delivery (e.g., Bike, Car, Bicycle).
+
 Time_taken (min): Actual time taken for the delivery in minutes (target variable).
 
 Programming Language: Python
