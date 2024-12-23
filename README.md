@@ -3,7 +3,7 @@ A Python project to analyze and predict food delivery times using Random Forest.
 Overview
 This project analyzes and predicts the time taken for food delivery based on several factors, such as the distance between the restaurant and the delivery location, the age and rating of the delivery person, and other relevant variables. The model leverages machine learning to provide accurate predictions and optimize delivery operations.
 
-Dataset
+### Dataset
 
 The dataset includes the following columns:
 
@@ -25,9 +25,9 @@ Type_of_vehicle: Mode of delivery (e.g., Bike, Car, Bicycle).
 
 Time_taken (min): Actual time taken for the delivery in minutes (target variable).
 
-Programming Language: Python
+### Programming Language: Python
 
-Libraries Used:
+### Libraries Used:
 
 Data Analysis: Pandas, NumPy
 Visualization: Matplotlib, Seaborn, Plotly
